@@ -2,6 +2,8 @@ people = 20
 cats = 30
 dogs = 15
 # if statements, test the statement given and follow the outcome underneath the statement
+# book definition: "if this boolean expression is TRUE, run the code, if not, skip it"
+# create a 'block' of code by using : and indenting the code in the block
 if people < cats:
     print("Too many cats! The world is doomed!")
 
