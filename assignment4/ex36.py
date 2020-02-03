@@ -11,7 +11,7 @@ def start():
     elif choice == "right":
         bedroom()
     else:
-        dead("You stumble arount the room until you starve.")
+        dead("You stumble around the room until you starve.")
 
 
 def library():
